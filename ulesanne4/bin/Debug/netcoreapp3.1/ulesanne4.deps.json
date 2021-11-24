@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ulesanne4/1.0.0": {
+        "runtime": {
+          "ulesanne4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ulesanne4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

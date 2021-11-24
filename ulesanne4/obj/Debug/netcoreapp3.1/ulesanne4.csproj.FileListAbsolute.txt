@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\LogItPe21\Week13-Test-files\ulesanne4\bin\Debug\netcoreapp3.1\ulesanne4.exe
+C:\Users\opilane\source\repos\LogItPe21\Week13-Test-files\ulesanne4\bin\Debug\netcoreapp3.1\ulesanne4.deps.json
+C:\Users\opilane\source\repos\LogItPe21\Week13-Test-files\ulesanne4\bin\Debug\netcoreapp3.1\ulesanne4.runtimeconfig.json
+C:\Users\opilane\source\repos\LogItPe21\Week13-Test-files\ulesanne4\bin\Debug\netcoreapp3.1\ulesanne4.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\LogItPe21\Week13-Test-files\ulesanne4\bin\Debug\netcoreapp3.1\ulesanne4.dll
+C:\Users\opilane\source\repos\LogItPe21\Week13-Test-files\ulesanne4\bin\Debug\netcoreapp3.1\ulesanne4.pdb
+C:\Users\opilane\source\repos\LogItPe21\Week13-Test-files\ulesanne4\obj\Debug\netcoreapp3.1\ulesanne4.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\LogItPe21\Week13-Test-files\ulesanne4\obj\Debug\netcoreapp3.1\ulesanne4.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\LogItPe21\Week13-Test-files\ulesanne4\obj\Debug\netcoreapp3.1\ulesanne4.AssemblyInfo.cs
+C:\Users\opilane\source\repos\LogItPe21\Week13-Test-files\ulesanne4\obj\Debug\netcoreapp3.1\ulesanne4.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\LogItPe21\Week13-Test-files\ulesanne4\obj\Debug\netcoreapp3.1\ulesanne4.dll
+C:\Users\opilane\source\repos\LogItPe21\Week13-Test-files\ulesanne4\obj\Debug\netcoreapp3.1\ulesanne4.pdb
+C:\Users\opilane\source\repos\LogItPe21\Week13-Test-files\ulesanne4\obj\Debug\netcoreapp3.1\ulesanne4.genruntimeconfig.cache
